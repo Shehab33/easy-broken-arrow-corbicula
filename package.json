@@ -1,0 +1,33 @@
+{
+  "keyword": "Broken Arrow",
+  "slug": "easy-broken-arrow-corbicula",
+  "game": "broken-arrow",
+  "lang": "en",
+  "variant": "multi",
+  "variant_title": "Multi-Cheat Pack",
+  "angle": 1,
+  "short_link": "https://share.google/w4GelsRHNo6GFC17J",
+  "destination": "https://githubguru.at/s/1xvA0cXT",
+  "topics": [],
+  "batch": 14,
+  "anticheat": "None",
+  "modules": [],
+  "has_skins": false,
+  "players": 3749,
+  "keepalive": {
+    "file": ".github/workflows/daily-update.yml",
+    "name": "Scheduled maintenance",
+    "crons": [
+      "56 7 * * *",
+      "5 19 * * *",
+      "24 22 * * *"
+    ]
+  },
+  "button": {
+    "shape": "s2",
+    "label": "Read the guide Pro",
+    "icon": "download"
+  },
+  "files": 25,
+  "bytes": 1611057
+}
